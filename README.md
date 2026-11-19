@@ -6,7 +6,7 @@ Software Engineering Student | Python & ERP Developer | Quantitative Finance Ent
 
 I am an undergraduate student pursuing a distance-learning Bachelor's degree in Information Systems at Universitas Siber Asia, with a strong interest in software engineering, enterprise systems, and quantitative finance.
 
-My professional background includes experience as an **Odoo Technical Engineer Intern**, where I gained exposure to ERP customization, business process automation, and enterprise application development. I primarily work with Python and the Odoo framework, while continuously developing my expertise in backend engineering, database management, and software architecture.
+My professional background includes experience as an **Odoo Technical and Functional Engineer**, where I gained exposure to ERP customization, business process automation, and enterprise application development. I primarily work with Python and the Odoo framework, while continuously developing my expertise in backend engineering, database management, and software architecture.
 
 I am particularly interested in building scalable, maintainable, and business-oriented applications that bridge technology and real-world operational needs.
 
