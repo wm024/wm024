@@ -1,5 +1,39 @@
 # 💫 About Me:
-Muhammad Ridho Ramadhan<br><br>Software Engineering Student & Quantitative Finance Enthusiast<br><br>About Me: I am an undergraduate student currently pursuing a distance-learning degree in System Information at Universitas Siber Asia. My core focus lies at the intersection of software development, financial technology, and quantitative analysis, where I build robust applications and data-driven systems.<br><br><br>Education: S1 PJJ Sistem Informasi at Universitas Siber Asia.<br>Key Interests & Expertise:<br>- Full-Stack & Backend Development: Experience building modular business applications and automated workflows using Odoo, Python, Pandas, and NumPy.<br>- Quantitative Finance: Developing algorithmic portfolio management systems, automated risk-adjusted analytics (Sharpe/Sortino ratios, MWRR/TWRR tracking), and Monte Carlo-based price prediction models using Geometric Brownian Motion.<br>- Web3 & Blockchain: Exploring decentralized applications through specialized technical training programs like the Lisk Bootcamp and the University of Nicosia's Mastering Web3 course.<br><br>Continuous Learning: Actively expanding my technical stack through programs like the DBS Foundation Coding Camp (AI & Machine Learning) and Gemini Academy.<br>Connect with Me:<br>- GitHub: [@wm024](https://github.com)<br>- LinkedIn: https://www.linkedin.com/in/muhammad-ridho-ramadhan/
+
+**Muhammad Ridho Ramadhan**
+
+Software Engineering Student | Python & ERP Developer | Quantitative Finance Enthusiast
+
+I am an undergraduate student pursuing a distance-learning Bachelor's degree in Information Systems at Universitas Siber Asia, with a strong interest in software engineering, enterprise systems, and quantitative finance.
+
+My professional background includes experience as an **Odoo Technical Engineer Intern**, where I gained exposure to ERP customization, business process automation, and enterprise application development. I primarily work with Python and the Odoo framework, while continuously developing my expertise in backend engineering, database management, and software architecture.
+
+I am particularly interested in building scalable, maintainable, and business-oriented applications that bridge technology and real-world operational needs.
+
+### 🎓 Education
+
+- **Universitas Siber Asia** — Bachelor's Degree in Information Systems (Distance Learning).
+
+### 💻 Key Interests & Expertise
+
+- **ERP & Enterprise Software Engineering:** Developing and customizing Odoo modules, implementing business workflows, extending ORM models, and automating business processes.
+- **Python & Backend Development:** Building modular applications, backend services, REST APIs, and data-driven systems using Python, Django, PostgreSQL, Pandas, and NumPy.
+- **Quantitative Finance:** Developing algorithmic portfolio management systems, risk-adjusted performance analytics (Sharpe and Sortino ratios), MWRR/TWRR tracking, and Monte Carlo simulations using Geometric Brownian Motion.
+
+### 📚 Continuous Learning
+
+Continuously expanding my technical knowledge through structured learning programs and hands-on projects, including:
+
+- DBS Foundation Coding Camp — AI & Machine Learning.
+- Gemini Academy.
+- Lisk Bootcamp — Blockchain Development.
+- University of Nicosia — Mastering Web3.
+
+### 🤝 Connect With Me
+
+- **GitHub:** [@wm024](https://github.com/wm024)
+- **LinkedIn:** [Muhammad Ridho Ramadhan](https://www.linkedin.com/in/muhammad-ridho-ramadhan/)
+- **Email:** ramadhanmuhammadridho665@gmail.com
 
 
 ## 🌐 Socials:
